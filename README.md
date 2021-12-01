@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ethan Bilyk
+- 👀 I’m interested in game design.
+- 🌱 I’m currently learning java.
